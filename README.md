@@ -4,11 +4,11 @@
 
 ## サービス
 
-- 🌸 恋みくじ
-- ✍️ 漢字の書き順
-- ❤️ 相性診断
-- 🧠 性格診断
-- 📚 日本文化
+- 🌸 [恋みくじ](https://www.ichizenn.com/koi-mikuji/)
+- ✍️ [漢字の書き順](https://www.ichizenn.com/kanji/)
+- ❤️ [おみくじ](https://www.ichizenn.com/omikuji/)
+- 🧠 [辛口診断_性格診断_心理テスト](https://shindan.ichizenn.com/)
+- 📚 [名人・名言集](https://www.ichizenn.com/list-57-1.html)
 
 ## Website
 
