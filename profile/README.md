@@ -116,3 +116,19 @@ We continue to develop online services related to Japanese culture, learning, li
 🏠 [Ichizenn](https://www.ichizenn.com)
 
 https://www.ichizenn.com
+
+
+一禅堂および関連サービスの公式プロフィールです。
+
+## ブランド・企業情報
+
+- 🎨 [Brandfetch — Ichizenn](https://brandfetch.com/ichizenn.com)
+- 🏢 [Crunchbase — 一禅堂](https://www.crunchbase.com/organization/%E4%B8%80%E7%A6%85%E5%A0%82)
+- 🌸 [Crunchbase — 恋みくじ](https://www.crunchbase.com/organization/%E6%81%8B%E3%81%BF%E3%81%8F%E3%81%98)
+- 🚀 [F6S — Ichizenn](https://www.f6s.com/ichizenn)
+- ❤️ [F6S — Koi Mikuji](https://www.f6s.com/koimikuji)
+
+## ナレッジベース
+
+- 📚 [Wikidata — 一禅堂](https://www.wikidata.org/wiki/Q140906621)
+- 🎴 [Wikidata — 恋みくじ](https://www.wikidata.org/wiki/Q140907500)
