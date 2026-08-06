@@ -12,7 +12,7 @@
 
 ## Website
 
-https://www.ichizenn.com
+ [一禅堂](https://www.ichizenn.com) :https://www.ichizenn.com
 
 ---
 
