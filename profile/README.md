@@ -127,7 +127,7 @@ https://www.ichizenn.com
 - 🌸 [Crunchbase — 恋みくじ](https://www.crunchbase.com/organization/%E6%81%8B%E3%81%BF%E3%81%8F%E3%81%98)
 - 🚀 [F6S — Ichizenn](https://www.f6s.com/ichizenn)
 - ❤️ [F6S — Koi Mikuji](https://www.f6s.com/koimikuji)
--  [Product Hunt](https://www.producthunt.com/products/2-66c45c8e-137f-4acb-a873-2f1487e2dd44?launch=2-92b10b77-132a-4e8b-97fe-92c517c1e286)
+-  [Product Hunt](https://www.producthunt.com/products/2-66c45c8e-137f-4acb-a873-2f1487e2dd44)
 -  Discover our online products on Product Hunt.
 
 ## ナレッジベース
