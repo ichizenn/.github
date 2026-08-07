@@ -122,11 +122,10 @@ https://www.ichizenn.com
 
 ## ブランド・企業情報
 
-- 🎨 [Brandfetch — Ichizenn](https://brandfetch.com/ichizenn.com)
+- 🎨 [Brandfetch — 一禅堂](https://brandfetch.com/ichizenn.com)
 - 🏢 [Crunchbase — 一禅堂](https://www.crunchbase.com/organization/%E4%B8%80%E7%A6%85%E5%A0%82)
-- 🌸 [Crunchbase — 恋みくじ](https://www.crunchbase.com/organization/%E6%81%8B%E3%81%BF%E3%81%8F%E3%81%98)
-- 🚀 [F6S — Ichizenn](https://www.f6s.com/ichizenn)
-- ❤️ [F6S — Koi Mikuji](https://www.f6s.com/koimikuji)
+- 🚀 [F6S — 一禅堂](https://www.f6s.com/ichizenn)
+- ❤️ [F6S — 恋みくじ](https://www.f6s.com/koimikuji)
 -  [Product Hunt](https://www.producthunt.com/products/2-66c45c8e-137f-4acb-a873-2f1487e2dd44)
 -  Discover our online products on Product Hunt.
 
